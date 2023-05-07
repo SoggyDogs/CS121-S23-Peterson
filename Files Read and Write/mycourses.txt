@@ -1,0 +1,4 @@
+course credits score
+ENG103 3 100
+SNLN 3 100
+ART210 3 100
